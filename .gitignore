@@ -1,0 +1,15 @@
+# 忽略某些文件
+*.log        
+*.tmp        
+*.png
+*.csv
+secret.txt
+
+# 忽略某些文件夹
+__pycache__/
+node_modules/ 
+data/
+
+# 忽略某些临时文件
+.DS_Store
+Thumbs.db
